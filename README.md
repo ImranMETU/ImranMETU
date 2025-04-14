@@ -23,4 +23,19 @@ Engineering | Data Analysis | Project Management
 - Site under construction 🚧
 - Currently learning SciKit Learn, Tensorflow, Keras
 - Working on real-time structural health monitoring for earthquake and wind dynamics on tall buildings
-- How to reach me: (
+- How to reach me:
+  <p align="left">
+  <a href="https://www.linkedin.com/in/imranshahriar/" target="_blank">
+    <img src="https://img.icons8.com/color/48/linkedin.png" width="30" />
+  </a>
+  <a href="mailto:imran.shahriar@metu.edu.tr">
+    <img src="https://img.icons8.com/fluency/48/gmail.png" width="30" />
+  </a>
+  <a href="https://twitter.com/ImranShahriar14" target="_blank">
+    <img src="https://img.icons8.com/color/48/twitter--v1.png" width="30" />
+  </a>
+  <a href="https://imranshahriar.me" target="_blank">
+    <img src="https://img.icons8.com/fluency/48/domain.png" width="30" />
+  </a>
+</p>
+
