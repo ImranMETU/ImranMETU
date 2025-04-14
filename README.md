@@ -10,7 +10,13 @@ I am *Imran Shahriar*, a graduate student at Middle East Technical University, s
 - Machine Learning/Artificial Intelligence
 - Building Information Modeling (BIM)
 
-## Tools
+## Skills
+Engineering | Data Analysis | Project Management
+
+## 🛠️ Tools
+<img src="https://img.icons8.com/color/48/python.png" width="30"/> <img src="https://img.icons8.com/color/48/numpy.png" width="30"/> 
+<img src="https://img.icons8.com/color/48/pandas.png" width="30"/> 
+<img src="https://img.icons8.com/ios-filled/50/github.png" width="30"/>
 
 
 
